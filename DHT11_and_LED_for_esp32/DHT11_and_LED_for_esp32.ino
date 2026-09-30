@@ -9,8 +9,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // ---------- WiFi ----------
-const char* ssid = "PERKUNG";
-const char* password = "KHUM0311";
+const char* ssid = "---";
+const char* password = "---";
 
 // ---------- Web server ----------
 AsyncWebServer server(80);
